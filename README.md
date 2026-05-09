@@ -1,30 +1,27 @@
 # Hi there, I'm Ozi 👋
 
-**Software Engineer | Next.js, TypeScript & Node.js | Building Scalable Web Products**
+**Software Engineer | Next.js, Node.js & TypeScript | Full-Stack Architecture**
 
-I am a software developer with a background in Management Information Systems, focused on building high-performance, SEO-optimized web applications. I apply Clean Code principles to transform complex business requirements and asynchronous data flows into fluid digital experiences.
+I am a software engineer with an academic background in Management Information Systems. My core focus is architecting scalable, SEO-optimized web applications and transforming complex business logic into clean, maintainable, and high-performance digital products.
 
-### 🛠️ Tech Stack & Architecture
-*   **Frontend Ecosystem:** Next.js 14 (App Router & Server Components), React, TypeScript, Tailwind CSS
-*   **Backend & BaaS:** Node.js, Firebase (Auth, Firestore, Security Rules), REST APIs
-*   **Workflow & Knowledge Management:** Git, Obsidian (Zettelkasten / AI Integration)
+### 🎯 Engineering Philosophy & Focus
 
----
+Instead of just writing code, I build comprehensive digital solutions. My approach to software development involves:
+*   **Performance & SEO Mastery:** Leveraging Next.js 14 (App Router & Server Components) to build fast, SSR/SSG optimized platforms that consistently achieve top search engine rankings.
+*   **Secure Architecture:** Implementing robust Backend-as-a-Service solutions, primarily focusing on strict Firebase Security Rules, authentication flows, and real-time data synchronization.
+*   **Clean Code Practices:** Writing strongly typed, predictable, and modular code using TypeScript and modern React patterns.
 
-### 🚀 Featured Engineering
+### 🧠 The Analytical Edge: From Systems Design to Code
+My architectural vision is heavily influenced by my background in designing and Game Mastering complex Tabletop RPGs (like the Fate system) and CRPGs. Managing intricate game economies, probability algorithms, and dynamic character states has trained me to think in systems. I apply this exact analytical mindset to web development—whether I'm designing a scalable database schema, managing complex global state, or writing REST APIs.
 
-#### [Kuir Anıt](#link-ekle)
-*   **Stack:** Next.js 14, Firebase Auth/Firestore, Tailwind CSS
-*   **Architecture & Impact:** Engineered a full-stack platform emphasizing real-time data synchronization and high-performance SEO. Secured the database layer strictly through Firebase Security Rules and integrated reCAPTCHA v3. Optimized Next.js metadata and sitemaps to successfully achieve and maintain top Google search rankings.
+### 🛠️ Core Tech Stack
+*   **Frontend:** Next.js 14, React, TypeScript, Tailwind CSS
+*   **Backend & Cloud:** Node.js, Firebase (Firestore, Auth), Google Cloud Platform (GCP)
+*   **Workflow & AI:** Git, REST APIs, Obsidian (Zettelkasten PKM), Google AI Studio Integrations
 
-#### [Fate Dice Roller & Character/Campaign Creator](#link-ekle)
-*   **Architecture & Impact:** Developed a logic-heavy web tool designed for tabletop RPGs. Managed complex application state, probability algorithms, and dynamic character data. This project showcases my foundational ability to handle intricate business logic and strict system rulesets within a UI.
-
----
-
-### 🧠 The Analytical Mindset: CRPGs to Web Architecture
-My passion for designing and Game Mastering tabletop RPGs (like Fate) and CRPGs heavily influences my software engineering approach. Designing game systems requires balancing complex rulesets, probability logic, and multi-layered data structures. This analytical mindset directly translates to how I architect scalable state management, design robust database schemas, and solve modern web development bottlenecks. 
+### 🌱 Current Trajectory
+I am currently integrating AI tools (LLMs / Google AI Studio) into SaaS workflows and actively seeking full-time or freelance **Fullstack / Frontend Engineer** roles, with a strong focus on the Ankara tech ecosystem and remote opportunities.
 
 📫 **Let's Connect:**
-*   **Portfolio:** [ozidev.vercel.app](https://ozidev.vercel.app) *(Moving to custom domain soon)*
+*   **Portfolio:** [ozidev.vercel.app](https://ozidev.vercel.app)
 *   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ozayozkan)
