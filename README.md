@@ -1,4 +1,4 @@
-# Hi there, I'm Ozi 👋
+# Hi there, I'm OziDev
 
 **Software Engineer | Next.js, Node.js & TypeScript | Full-Stack Architecture**
 
